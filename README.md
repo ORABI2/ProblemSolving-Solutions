@@ -1,3 +1,3 @@
-# ProblemSolving-Solutions
-LeetCode
-HakcerRank
+# Problem-Solving
+Solution for some problems i enjoy on: LeetCode & HackerRank
+
