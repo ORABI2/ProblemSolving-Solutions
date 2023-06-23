@@ -11,4 +11,5 @@ def searchInsert(self, nums: List[int], target: int) -> int:
                 high = mid - 1
             else:
                 low = mid + 1
+        # -----> we will use next line if we didn't find the target and need to know where it's position in the list
         return low
